@@ -11,6 +11,7 @@ div {
   padding: .5rem;
   text-align: center;
   text-decoration: none;
+  vertical-align: middle;
 }
 
 .btn {
