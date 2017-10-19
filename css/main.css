@@ -50,6 +50,11 @@ div {
   border-style: solid;
 }
 
+.btn-ghost:hover {
+  background-color: #666;
+  color: #fff;
+}
+
 .btn-warning {
   background-color: #f33;
 }
