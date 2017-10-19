@@ -45,3 +45,7 @@ a.btn-ghost {
 a.btn-warning {
   background-color: #f33;
 }
+
+a.btn-warning:hover {
+  background-color: #933;
+}
