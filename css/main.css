@@ -23,6 +23,14 @@ a.btn {
   font-size: 1.125rem;
 }
 
+a.btn-small {
+  font-size: .875rem;
+}
+
+a.btn-big {
+  font-size: 1.5rem;
+}
+
 a.btn:hover {
   background-color: #000;
 }
